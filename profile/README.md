@@ -1,3 +1,8 @@
+| ![image](https://github.com/user-attachments/assets/3fd3cdf9-4405-4b27-bb19-dc5c6214bc81) | [![image](https://github.com/user-attachments/assets/28898267-fcd8-4774-8aa9-2a937231d6cc)](https://apkfyp.com/dook-note.html)  |
+|:-------------------------------------------------:|-----------------------|
+| **Platform**: Android 5.0+                       | **Version**: 2025      |
+| **Size**: 11 MB                                  | ⭐⭐⭐⭐⭐ (5/5) |
+
 ## Introduction 
 Tracking your health can be a challenge, especially when you have multiple aspects to monitor, such as exercise, diet, and emotional well-being. Whether you’re working towards fitness goals or managing your mental health, having the right tools can make a huge difference. But how do you stay on top of everything in your busy life without feeling overwhelmed? 
 
